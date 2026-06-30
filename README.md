@@ -23,6 +23,17 @@
 
 ---
 
+## Externe Cheatsheets
+
+| Link | Beschreibung |
+|------|--------------|
+| [noobsec.net – OSCP Cheatsheet](https://www.noobsec.net/oscp-cheatsheet) | OSCP-fokussiert, sehr kompakt |
+| [AmrAhmadKali – Pentesting Cheatsheet](https://github.com/AmrAhmadKali/pentesting-cheatsheet) | GitHub Sammlung, viele Tools |
+| [highon.coffee – Tools Cheat Sheet](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | Klassiker, ausführlich |
+| [ivan-sincek – Penetration Testing Cheat Sheet](https://github.com/ivan-sincek/penetration-testing-cheat-sheet) | GitHub, sehr strukturiert |
+
+---
+
 ## Schnellreferenz
 
 ```
